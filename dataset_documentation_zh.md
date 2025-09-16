@@ -154,8 +154,8 @@ datasets/
 运行程序dataset_download.py可自动下载前三个数据集到对应位置，并在训练中自动读取；
 classify-leaves数据集请到https://www.kaggle.com/competitions/classify-leaves下载。并将下载好的数据集解压到datasets\classify-leaves文件夹下即可，程序会自动读取。
 
-
 当您从 https://www.kaggle.com/competitions/classify-leaves 下载完 classify-leaves 数据集，并将其存放在 datasets 文件夹中之后，请运行 split_classify_leaves.py 脚本以完成对数据集的分割操作。
+
 ---
 
 本文档主要内容由通义灵码 VSCode 插件中的 qwen3-coder 模型生成。
