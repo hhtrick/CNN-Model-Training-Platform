@@ -101,7 +101,7 @@ The GUI provides:
 ├── dataset_documentation.md # Dataset documentation (English)
 ├── dataset_documentation_zh.md # Dataset documentation (Chinese)
 ├── project_description.md  # Project description (English)
-└── 项目说明.md             # Project description (Chinese)
+└── project_description_zh.md             # Project description (Chinese)
 ```
 
 ## Models
