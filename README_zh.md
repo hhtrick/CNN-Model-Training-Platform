@@ -101,7 +101,7 @@ python main_gui.py
 ├── dataset_documentation.md # 数据集文档 (英文)
 ├── dataset_documentation_zh.md # 数据集文档 (中文)
 ├── project_description.md  # 项目说明 (英文)
-└── 项目说明.md             # 项目说明 (中文)
+└── project_description_zh.md             # 项目说明 (中文)
 ```
 
 ## 模型说明
