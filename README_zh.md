@@ -104,6 +104,8 @@ python main_gui.py
 └── project_description_zh.md             # 项目说明 (中文)
 ```
 
+执行 python main_gui.py 后，在模型训练完成后，系统会自动保存模型和日志。此时，您会发现 models/classic_model/ 和 logs/classic_model/ 文件夹已被自动创建。接着，运行 dataset_download.py 程序后，datasets/ 文件夹也会被自动生成。
+
 ## 模型说明
 
 所有模型都经过调整，可以处理MNIST和FashionMNIST等灰度图像(28x28)。这些架构是从原始版本修改而来，以适配较小的输入尺寸。
