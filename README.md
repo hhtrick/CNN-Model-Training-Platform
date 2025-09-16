@@ -103,6 +103,7 @@ The GUI provides:
 ├── project_description.md  # Project description (English)
 └── project_description_zh.md             # Project description (Chinese)
 ```
+After executing python main_gui.py, once the model training is completed, the system will automatically save the model and logs. At this point, you will notice that the folders models/classic_model/ and logs/classic_model/ have been automatically created. Subsequently, after running the dataset_download.py program, the datasets/ folder will also be automatically generated.
 
 ## Models
 
